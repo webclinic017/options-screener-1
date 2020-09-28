@@ -1,6 +1,6 @@
 # options-screener
 
-This is the main code to the web app that can be found through the following link: http://options-screener.net
+This is the main code of the web app that can be found through the following link: http://options-screener.net
 
 The web app is built using a data-science framework Streamlit: https://www.streamlit.io
 Please refer to the streamlit link on how to install and run the code.
