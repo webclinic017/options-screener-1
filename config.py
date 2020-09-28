@@ -1,1 +1,1 @@
-TOKEN = 'btleohv48v6pkuagvjq0'
+TOKEN = 'HERE GOES YOUR FINHUB TOKEN'
